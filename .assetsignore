@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+.assetsignore
+dist
+tests
+tools
+README.md
+netlify.toml
+wrangler.jsonc

@@ -32,14 +32,14 @@ A sorozat/kategoria leirasat a mappaban levo `.txt` fajl adja. A frissites autom
 
 Ha a projekt GitHub repositoryhoz van kotve, a `.github/workflows/build-gallery.yml` automatikusan ujrageneralja a galeriat, amikor az `assets/artworks` mappa valtozik.
 
-Cloudflare Pages beallitas:
+Cloudflare Workers beallitas:
 
-- Framework preset: None
-- Build command: ures
-- Build output directory: `/`
+- Git repository: `siposbarni/siposbarni-web`
 - Production branch: `main`
+- Build command: ures
+- Deploy command: `npx wrangler deploy`
 
-Ezutan a Drive-bol szinkronizalt fajlok GitHubra kerulese utan a Cloudflare Pages automatikusan publikal.
+Ezutan a Drive-bol szinkronizalt fajlok GitHubra kerulese utan a Cloudflare automatikusan publikalja a `siposbarnicom` Worker static assets oldalt.
 
 ## Kezi publikalas Cloudflare-re
 
