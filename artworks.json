@@ -1,6 +1,152 @@
 {
   "categories": [
     {
+      "id": "budapest",
+      "title": {
+        "hu": "Budapest",
+        "en": "Budapest"
+      },
+      "description": {
+        "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+        "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+      },
+      "works": [
+        {
+          "id": "budapest-angyalfold-folott-az-eg-olaj-faroston-50x90cm",
+          "title": {
+            "hu": "Angyalföld fölött az ég",
+            "en": "Angyalföld fölött az ég"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj faroston",
+            "en": "olaj faroston"
+          },
+          "size": "50x90cm",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/Angyalföld fölött az ég 50x90cm, olaj faroston.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/angyalfold-folott-az-eg-olaj-faroston-50x90cm.jpg"
+        },
+        {
+          "id": "budapest-bajza-utca-olaj-farost-50x40cm",
+          "title": {
+            "hu": "Bajza utca",
+            "en": "Bajza utca"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
+          },
+          "size": "50x40cm",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/Bajza utca - olaj, farost, 50x40cm.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/bajza-utca-olaj-farost-50x40cm.jpg"
+        },
+        {
+          "id": "budapest-bajza-utca-2-olaj-farost-50x40cm",
+          "title": {
+            "hu": "Bajza utca 2",
+            "en": "Bajza utca 2"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
+          },
+          "size": "50x40cm",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/Bajza utca 2- olaj, farost, 50x40cm.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/bajza-utca-2-olaj-farost-50x40cm.jpg"
+        },
+        {
+          "id": "budapest-bazilika-olaj-vasznon1-80x60cm",
+          "title": {
+            "hu": "bazilika",
+            "en": "bazilika"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj vásznon1",
+            "en": "olaj vásznon1"
+          },
+          "size": "80x60cm",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/bazilika 80x60cm olaj vásznon1.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/bazilika-olaj-vasznon1-80x60cm.jpg"
+        },
+        {
+          "id": "budapest-lanchid-olaj-faroston-30x70",
+          "title": {
+            "hu": "Lánchíd",
+            "en": "Lánchíd"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj faroston- 30x70",
+            "en": "olaj faroston- 30x70"
+          },
+          "size": "",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/Lánchíd - olaj faroston- 30x70.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/lanchid-olaj-faroston-30x70.jpg"
+        },
+        {
+          "id": "budapest-podmaniczky-utca-olaj-faroston-100x100cm",
+          "title": {
+            "hu": "Podmaniczky utca",
+            "en": "Podmaniczky utca"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, faroston",
+            "en": "olaj, faroston"
+          },
+          "size": "100x100cm",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/Podmaniczky utca - olaj, faroston 100x100cm.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/podmaniczky-utca-olaj-faroston-100x100cm.jpg"
+        },
+        {
+          "id": "budapest-thokoly-ut-olaj-faroston-80x60",
+          "title": {
+            "hu": "Thököly út",
+            "en": "Thököly út"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, faroston - 80x60",
+            "en": "olaj, faroston - 80x60"
+          },
+          "size": "",
+          "description": {
+            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
+            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
+          },
+          "image": "assets/artworks/Budapest/Thököly út - olaj, faroston - 80x60.jpg",
+          "thumb": "assets/artworks/thumbs/budapest/thokoly-ut-olaj-faroston-80x60.jpg"
+        }
+      ]
+    },
+    {
       "id": "gyengebb-kutyak",
       "title": {
         "hu": "gyengébb kutyák",
@@ -12,23 +158,23 @@
       },
       "works": [
         {
-          "id": "gyengebb-kutyak-vanegycigid-olaj-farost-50x40cm",
+          "id": "gyengebb-kutyak-a-pok-olaj-farost-100x100cm",
           "title": {
-            "hu": "vanegycigid",
-            "en": "vanegycigid"
+            "hu": "A pók",
+            "en": "A pók"
           },
           "year": "",
           "medium": {
-            "hu": "olaj, farost",
-            "en": "olaj, farost"
+            "hu": "olaj,, farost",
+            "en": "olaj,, farost"
           },
-          "size": "50x40cm",
+          "size": "100x100cm",
           "description": {
             "hu": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg.",
             "en": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg."
           },
-          "image": "assets/artworks/gyengébb kutyák/vanegycigid - olaj, farost, 50x40cm.jpg",
-          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/vanegycigid-olaj-farost-50x40cm.jpg"
+          "image": "assets/artworks/gyengébb kutyák/A pók - olaj,, farost - 100x100cm.png",
+          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/a-pok-olaj-farost-100x100cm.jpg"
         },
         {
           "id": "gyengebb-kutyak-karos-szenvedelyek-1-olaj-farost-40x50cm",
@@ -48,6 +194,25 @@
           },
           "image": "assets/artworks/gyengébb kutyák/káros szenvedélyek 1 - olaj, farost 40x50cm.png",
           "thumb": "assets/artworks/thumbs/gyengebb-kutyak/karos-szenvedelyek-1-olaj-farost-40x50cm.jpg"
+        },
+        {
+          "id": "gyengebb-kutyak-karos-szenvedelyek-2-olaj-farost-40x50cm",
+          "title": {
+            "hu": "káros szenvedélyek 2",
+            "en": "káros szenvedélyek 2"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
+          },
+          "size": "40x50cm",
+          "description": {
+            "hu": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg.",
+            "en": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg."
+          },
+          "image": "assets/artworks/gyengébb kutyák/káros szenvedélyek 2 - olaj, farost 40x50cm.png",
+          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/karos-szenvedelyek-2-olaj-farost-40x50cm.jpg"
         },
         {
           "id": "gyengebb-kutyak-torzo-1-olaj-farost-50x40cm",
@@ -71,13 +236,13 @@
         {
           "id": "gyengebb-kutyak-torzo-2-olaj-farost-50x40cm",
           "title": {
-            "hu": "Torzó 2- olaj",
-            "en": "Torzó 2- olaj"
+            "hu": "Torzó 2",
+            "en": "Torzó 2"
           },
           "year": "",
           "medium": {
-            "hu": "farost",
-            "en": "farost"
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
           },
           "size": "50x40cm",
           "description": {
@@ -88,34 +253,15 @@
           "thumb": "assets/artworks/thumbs/gyengebb-kutyak/torzo-2-olaj-farost-50x40cm.jpg"
         },
         {
-          "id": "gyengebb-kutyak-a-pok-olaj-farost-100x100cm",
-          "title": {
-            "hu": "A pók",
-            "en": "A pók"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, farost",
-            "en": "olaj, farost"
-          },
-          "size": "100x100cm",
-          "description": {
-            "hu": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg.",
-            "en": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg."
-          },
-          "image": "assets/artworks/gyengébb kutyák/A pók - olaj,, farost - 100x100cm.png",
-          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/a-pok-olaj-farost-100x100cm.jpg"
-        },
-        {
           "id": "gyengebb-kutyak-torzo-3-olaj-alapozott-papir-50x50cm",
           "title": {
-            "hu": "Torzó 3- olaj",
-            "en": "Torzó 3- olaj"
+            "hu": "Torzó 3",
+            "en": "Torzó 3"
           },
           "year": "",
           "medium": {
-            "hu": "alapozott papír",
-            "en": "alapozott papír"
+            "hu": "olaj, alapozott papír",
+            "en": "olaj, alapozott papír"
           },
           "size": "50x50cm",
           "description": {
@@ -126,34 +272,15 @@
           "thumb": "assets/artworks/thumbs/gyengebb-kutyak/torzo-3-olaj-alapozott-papir-50x50cm.jpg"
         },
         {
-          "id": "gyengebb-kutyak-torzo-5-olaj-alapozott-papir-50x50cm",
-          "title": {
-            "hu": "Torzó 5- olaj",
-            "en": "Torzó 5- olaj"
-          },
-          "year": "",
-          "medium": {
-            "hu": "alapozott papír",
-            "en": "alapozott papír"
-          },
-          "size": "50x50cm",
-          "description": {
-            "hu": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg.",
-            "en": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg."
-          },
-          "image": "assets/artworks/gyengébb kutyák/Torzó 5- olaj, alapozott papír 50x50cm.jpg",
-          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/torzo-5-olaj-alapozott-papir-50x50cm.jpg"
-        },
-        {
           "id": "gyengebb-kutyak-torzo-4-olaj-alapozott-papir-50x50cm",
           "title": {
-            "hu": "Torzó 4- olaj",
-            "en": "Torzó 4- olaj"
+            "hu": "Torzó 4",
+            "en": "Torzó 4"
           },
           "year": "",
           "medium": {
-            "hu": "alapozott papír",
-            "en": "alapozott papír"
+            "hu": "olaj, alapozott papír",
+            "en": "olaj, alapozott papír"
           },
           "size": "50x50cm",
           "description": {
@@ -164,23 +291,511 @@
           "thumb": "assets/artworks/thumbs/gyengebb-kutyak/torzo-4-olaj-alapozott-papir-50x50cm.jpg"
         },
         {
-          "id": "gyengebb-kutyak-karos-szenvedelyek-2-olaj-farost-40x50cm",
+          "id": "gyengebb-kutyak-torzo-5-olaj-alapozott-papir-50x50cm",
           "title": {
-            "hu": "káros szenvedélyek 2",
-            "en": "káros szenvedélyek 2"
+            "hu": "Torzó 5",
+            "en": "Torzó 5"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, alapozott papír",
+            "en": "olaj, alapozott papír"
+          },
+          "size": "50x50cm",
+          "description": {
+            "hu": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg.",
+            "en": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg."
+          },
+          "image": "assets/artworks/gyengébb kutyák/Torzó 5- olaj, alapozott papír 50x50cm.jpg",
+          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/torzo-5-olaj-alapozott-papir-50x50cm.jpg"
+        },
+        {
+          "id": "gyengebb-kutyak-vanegycigid-olaj-farost-50x40cm",
+          "title": {
+            "hu": "vanegycigid",
+            "en": "vanegycigid"
           },
           "year": "",
           "medium": {
             "hu": "olaj, farost",
             "en": "olaj, farost"
           },
-          "size": "40x50cm",
+          "size": "50x40cm",
           "description": {
             "hu": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg.",
             "en": "Festés előtt -0. lépésként- egy digitális vázlatot készítek képszerkesztővel, ahol már eldőlnek az arányok és a kompozíció. Így a festés során el tudok merülni a kivitelezésben. Ennek a sorozatnak az a megkülönböztető jegye, hogy magamról készített videókból kivágott képkockákat -és ezeknek a montázsát- festettem meg."
           },
-          "image": "assets/artworks/gyengébb kutyák/káros szenvedélyek 2 - olaj, farost 40x50cm.png",
-          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/karos-szenvedelyek-2-olaj-farost-40x50cm.jpg"
+          "image": "assets/artworks/gyengébb kutyák/vanegycigid - olaj, farost, 50x40cm.jpg",
+          "thumb": "assets/artworks/thumbs/gyengebb-kutyak/vanegycigid-olaj-farost-50x40cm.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rajzok-es-egyebek",
+      "title": {
+        "hu": "Rajzok és egyebek",
+        "en": "Rajzok és egyebek"
+      },
+      "description": {
+        "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+        "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+      },
+      "works": [
+        {
+          "id": "rajzok-es-egyebek-269365502-963483354578197-2501394582919598586-n",
+          "title": {
+            "hu": "269365502_963483354578197_2501394582919598586_n",
+            "en": "269365502_963483354578197_2501394582919598586_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/269365502_963483354578197_2501394582919598586_n.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/269365502-963483354578197-2501394582919598586-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-272511411-466598984980347-8601036198294289682-n",
+          "title": {
+            "hu": "272511411_466598984980347_8601036198294289682_n",
+            "en": "272511411_466598984980347_8601036198294289682_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/272511411_466598984980347_8601036198294289682_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/272511411-466598984980347-8601036198294289682-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-291010197-162611696321120-6777248751824874829-n",
+          "title": {
+            "hu": "291010197_162611696321120_6777248751824874829_n",
+            "en": "291010197_162611696321120_6777248751824874829_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/291010197_162611696321120_6777248751824874829_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/291010197-162611696321120-6777248751824874829-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-311902995-923873848580197-1183759656448819750-n",
+          "title": {
+            "hu": "311902995_923873848580197_1183759656448819750_n",
+            "en": "311902995_923873848580197_1183759656448819750_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/311902995_923873848580197_1183759656448819750_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/311902995-923873848580197-1183759656448819750-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-345052114-902382157519522-8119440702937321090-n",
+          "title": {
+            "hu": "345052114_902382157519522_8119440702937321090_n",
+            "en": "345052114_902382157519522_8119440702937321090_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/345052114_902382157519522_8119440702937321090_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/345052114-902382157519522-8119440702937321090-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-346242636-255220183541078-8041111106084781617-n",
+          "title": {
+            "hu": "346242636_255220183541078_8041111106084781617_n",
+            "en": "346242636_255220183541078_8041111106084781617_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/346242636_255220183541078_8041111106084781617_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/346242636-255220183541078-8041111106084781617-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-346663599-785904969562672-9049063812178885545-n",
+          "title": {
+            "hu": "346663599_785904969562672_9049063812178885545_n",
+            "en": "346663599_785904969562672_9049063812178885545_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/346663599_785904969562672_9049063812178885545_n.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/346663599-785904969562672-9049063812178885545-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-348246542-272148421850580-1132376958299151052-n",
+          "title": {
+            "hu": "348246542_272148421850580_1132376958299151052_n",
+            "en": "348246542_272148421850580_1132376958299151052_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/348246542_272148421850580_1132376958299151052_n.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/348246542-272148421850580-1132376958299151052-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-350864246-768282981699406-123473593047623413-n",
+          "title": {
+            "hu": "350864246_768282981699406_123473593047623413_n",
+            "en": "350864246_768282981699406_123473593047623413_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/350864246_768282981699406_123473593047623413_n.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/350864246-768282981699406-123473593047623413-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-351743637-275274751540536-4014300818743203524-n",
+          "title": {
+            "hu": "351743637_275274751540536_4014300818743203524_n",
+            "en": "351743637_275274751540536_4014300818743203524_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/351743637_275274751540536_4014300818743203524_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/351743637-275274751540536-4014300818743203524-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-353575056-3107803592859847-2234416904379578627-n",
+          "title": {
+            "hu": "353575056_3107803592859847_2234416904379578627_n",
+            "en": "353575056_3107803592859847_2234416904379578627_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/353575056_3107803592859847_2234416904379578627_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/353575056-3107803592859847-2234416904379578627-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-354796051-213531614932094-9161665790499240295-n",
+          "title": {
+            "hu": "354796051_213531614932094_9161665790499240295_n",
+            "en": "354796051_213531614932094_9161665790499240295_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/354796051_213531614932094_9161665790499240295_n.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/354796051-213531614932094-9161665790499240295-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-355582130-116179654846603-480939553773351303-n",
+          "title": {
+            "hu": "355582130_116179654846603_480939553773351303_n",
+            "en": "355582130_116179654846603_480939553773351303_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/355582130_116179654846603_480939553773351303_n.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/355582130-116179654846603-480939553773351303-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-356230514-288962513507927-7167032235870405729-n",
+          "title": {
+            "hu": "356230514_288962513507927_7167032235870405729_n",
+            "en": "356230514_288962513507927_7167032235870405729_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/356230514_288962513507927_7167032235870405729_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/356230514-288962513507927-7167032235870405729-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-356801892-588949160031165-1738209079914513571-n",
+          "title": {
+            "hu": "356801892_588949160031165_1738209079914513571_n",
+            "en": "356801892_588949160031165_1738209079914513571_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/356801892_588949160031165_1738209079914513571_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/356801892-588949160031165-1738209079914513571-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-369144715-667068215468700-8240801625064952303-n",
+          "title": {
+            "hu": "369144715_667068215468700_8240801625064952303_n",
+            "en": "369144715_667068215468700_8240801625064952303_n"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/369144715_667068215468700_8240801625064952303_n.webp",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/369144715-667068215468700-8240801625064952303-n.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-egy-rendes-lany-nem-ilyen-pasztell-faroston-50x30",
+          "title": {
+            "hu": "Egy rendes lány nem ilyen",
+            "en": "Egy rendes lány nem ilyen"
+          },
+          "year": "",
+          "medium": {
+            "hu": "pasztell faroston - 50x30",
+            "en": "pasztell faroston - 50x30"
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/Egy rendes lány nem ilyen - pasztell faroston - 50x30.png",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/egy-rendes-lany-nem-ilyen-pasztell-faroston-50x30.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-elmulik-szen-faroston-30x70cm",
+          "title": {
+            "hu": "Elmúlik",
+            "en": "Elmúlik"
+          },
+          "year": "",
+          "medium": {
+            "hu": "szén, faroston",
+            "en": "szén, faroston"
+          },
+          "size": "30x70cm",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/Elmúlik - szén, faroston 30x70cm.png",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/elmulik-szen-faroston-30x70cm.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-img-20260331-085440",
+          "title": {
+            "hu": "IMG_20260331_085440",
+            "en": "IMG_20260331_085440"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/IMG_20260331_085440.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/img-20260331-085440.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-img-20260331-085931",
+          "title": {
+            "hu": "IMG_20260331_085931",
+            "en": "IMG_20260331_085931"
+          },
+          "year": "",
+          "medium": {
+            "hu": "",
+            "en": ""
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/IMG_20260331_085931.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/img-20260331-085931.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-kikelet-szen-faroston-40x40cm",
+          "title": {
+            "hu": "kikelet",
+            "en": "kikelet"
+          },
+          "year": "",
+          "medium": {
+            "hu": "szén, faroston",
+            "en": "szén, faroston"
+          },
+          "size": "40x40cm",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/kikelet - szén, faroston 40x40cm.png",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/kikelet-szen-faroston-40x40cm.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-majd-ha-nagy-leszel-szen-faroston-30x70cm",
+          "title": {
+            "hu": "Majd ha nagy leszel",
+            "en": "Majd ha nagy leszel"
+          },
+          "year": "",
+          "medium": {
+            "hu": "szén, faroston",
+            "en": "szén, faroston"
+          },
+          "size": "30x70cm",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/Majd ha nagy leszel - szén, faroston 30x70cm.png",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/majd-ha-nagy-leszel-szen-faroston-30x70cm.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-nem-alszol-pasztell-faroston-30x50",
+          "title": {
+            "hu": "Nem alszol",
+            "en": "Nem alszol"
+          },
+          "year": "",
+          "medium": {
+            "hu": "pasztell faroston - 30x50",
+            "en": "pasztell faroston - 30x50"
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/Nem alszol - pasztell faroston - 30x50.png",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/nem-alszol-pasztell-faroston-30x50.jpg"
+        },
+        {
+          "id": "rajzok-es-egyebek-tanulmany-lofejrol-szen-vasznon-40x40",
+          "title": {
+            "hu": "tanulmány lófejről",
+            "en": "tanulmány lófejről"
+          },
+          "year": "",
+          "medium": {
+            "hu": "szén vásznon - 40x40",
+            "en": "szén vásznon - 40x40"
+          },
+          "size": "",
+          "description": {
+            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
+            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
+          },
+          "image": "assets/artworks/Rajzok és egyebek/tanulmány lófejről - szén vásznon - 40x40.jpg",
+          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/tanulmany-lofejrol-szen-vasznon-40x40.jpg"
         }
       ]
     },
@@ -195,25 +810,6 @@
         "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
       },
       "works": [
-        {
-          "id": "sosemvolt-aranykor-nekem-te-ne-olaj-farost-80x80cm",
-          "title": {
-            "hu": "Nekem te ne",
-            "en": "Nekem te ne"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, farost",
-            "en": "olaj, farost"
-          },
-          "size": "80x80cm",
-          "description": {
-            "hu": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők.",
-            "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
-          },
-          "image": "assets/artworks/Sosemvolt aranykor/Nekem te ne - olaj, farost 80x80cm.png",
-          "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/nekem-te-ne-olaj-farost-80x80cm.jpg"
-        },
         {
           "id": "sosemvolt-aranykor-bitte-olaj-faroston-100x100cm",
           "title": {
@@ -291,6 +887,25 @@
           "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/harem-olaj-faroston-80x80cm.jpg"
         },
         {
+          "id": "sosemvolt-aranykor-harom-baratno-olaj-farost-100x100cm",
+          "title": {
+            "hu": "Három barátnő",
+            "en": "Három barátnő"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
+          },
+          "size": "100x100cm",
+          "description": {
+            "hu": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők.",
+            "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
+          },
+          "image": "assets/artworks/Sosemvolt aranykor/Három barátnő - olaj, farost, 100x100cm.jpg",
+          "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/harom-baratno-olaj-farost-100x100cm.jpg"
+        },
+        {
           "id": "sosemvolt-aranykor-ketten-olaj-faroston-59x35cm",
           "title": {
             "hu": "ketten",
@@ -327,6 +942,44 @@
           },
           "image": "assets/artworks/Sosemvolt aranykor/Kinövöd - olaj, vászon  80x80cm.png",
           "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/kinovod-olaj-vaszon-80x80cm.jpg"
+        },
+        {
+          "id": "sosemvolt-aranykor-nekem-te-ne-olaj-farost-80x80cm",
+          "title": {
+            "hu": "Nekem te ne",
+            "en": "Nekem te ne"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
+          },
+          "size": "80x80cm",
+          "description": {
+            "hu": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők.",
+            "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
+          },
+          "image": "assets/artworks/Sosemvolt aranykor/Nekem te ne - olaj, farost 80x80cm.png",
+          "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/nekem-te-ne-olaj-farost-80x80cm.jpg"
+        },
+        {
+          "id": "sosemvolt-aranykor-negy-baratno-olaj-farost-100x100cm",
+          "title": {
+            "hu": "Négy barátnő",
+            "en": "Négy barátnő"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, farost",
+            "en": "olaj, farost"
+          },
+          "size": "100x100cm",
+          "description": {
+            "hu": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők.",
+            "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
+          },
+          "image": "assets/artworks/Sosemvolt aranykor/Négy barátnő - olaj, farost, 100x100cm.jpg",
+          "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/negy-baratno-olaj-farost-100x100cm.jpg"
         },
         {
           "id": "sosemvolt-aranykor-spontan-megbekeles-olaj-farost-100x100cm",
@@ -384,44 +1037,6 @@
           },
           "image": "assets/artworks/Sosemvolt aranykor/Zsül - olaj, faroston 100x100cm.png",
           "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/zsul-olaj-faroston-100x100cm.jpg"
-        },
-        {
-          "id": "sosemvolt-aranykor-negy-baratno-olaj-farost-100x100cm",
-          "title": {
-            "hu": "Négy barátnő",
-            "en": "Négy barátnő"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, farost",
-            "en": "olaj, farost"
-          },
-          "size": "100x100cm",
-          "description": {
-            "hu": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők.",
-            "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
-          },
-          "image": "assets/artworks/Sosemvolt aranykor/Négy barátnő - olaj, farost, 100x100cm.jpg",
-          "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/negy-baratno-olaj-farost-100x100cm.jpg"
-        },
-        {
-          "id": "sosemvolt-aranykor-harom-baratno-olaj-farost-100x100cm",
-          "title": {
-            "hu": "Három barátnő",
-            "en": "Három barátnő"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, farost",
-            "en": "olaj, farost"
-          },
-          "size": "100x100cm",
-          "description": {
-            "hu": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők.",
-            "en": "Ezekben a munkáimban portrékat, torzókat és többalakos jeleneteket festek. A figura mindig fontos kiindulópont, de nem a látvány pontos másolása érdekel. Csurgatásokkal, áttetsző rétegekkel, visszakaparásokkal és nagy színmezőkkel bontom meg a testet, így a festék néha kiemeli, máskor elfedi vagy átformálja az alakot.\n\nA többalakos képeken főként az emberek közötti viszonyokat keresem: a közelséget, az elszigeteltséget, a szerepeket és a sérülékenységet. Nem kész történeteket festek, hanem nyitott helyzeteket, amelyek inkább érezhetők, mint egyértelműen megfejthetők."
-          },
-          "image": "assets/artworks/Sosemvolt aranykor/Három barátnő - olaj, farost, 100x100cm.jpg",
-          "thumb": "assets/artworks/thumbs/sosemvolt-aranykor/harom-baratno-olaj-farost-100x100cm.jpg"
         }
       ]
     },
@@ -436,25 +1051,6 @@
         "en": ""
       },
       "works": [
-        {
-          "id": "ujszeru-historizalas-munka-es-jolet-olaj-vaszon-80x80cm",
-          "title": {
-            "hu": "munka és jólét",
-            "en": "munka és jólét"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, vászon",
-            "en": "olaj, vászon"
-          },
-          "size": "80x80cm",
-          "description": {
-            "hu": "",
-            "en": ""
-          },
-          "image": "assets/artworks/Újszerű historizálás/munka és jólét - olaj, vászon 80x80cm.png",
-          "thumb": "assets/artworks/thumbs/ujszeru-historizalas/munka-es-jolet-olaj-vaszon-80x80cm.jpg"
-        },
         {
           "id": "ujszeru-historizalas-belolem-is-ember-lett-olaj-farost-80x60cm",
           "title": {
@@ -475,10 +1071,10 @@
           "thumb": "assets/artworks/thumbs/ujszeru-historizalas/belolem-is-ember-lett-olaj-farost-80x60cm.jpg"
         },
         {
-          "id": "ujszeru-historizalas-gabriel-80x60cm-olaj-faroston1",
+          "id": "ujszeru-historizalas-gabriel-olaj-faroston1-80x60cm",
           "title": {
-            "hu": "Gábriel 80x60cm",
-            "en": "Gábriel 80x60cm"
+            "hu": "Gábriel",
+            "en": "Gábriel"
           },
           "year": "",
           "medium": {
@@ -491,13 +1087,32 @@
             "en": ""
           },
           "image": "assets/artworks/Újszerű historizálás/Gábriel 80x60cm, olaj faroston1.jpg",
-          "thumb": "assets/artworks/thumbs/ujszeru-historizalas/gabriel-80x60cm-olaj-faroston1.jpg"
+          "thumb": "assets/artworks/thumbs/ujszeru-historizalas/gabriel-olaj-faroston1-80x60cm.jpg"
         },
         {
-          "id": "ujszeru-historizalas-pallas-athene-60x80cm-olaj-faroston3",
+          "id": "ujszeru-historizalas-munka-es-jolet-olaj-vaszon-80x80cm",
           "title": {
-            "hu": "Pallas Athene 60x80cm",
-            "en": "Pallas Athene 60x80cm"
+            "hu": "munka és jólét",
+            "en": "munka és jólét"
+          },
+          "year": "",
+          "medium": {
+            "hu": "olaj, vászon",
+            "en": "olaj, vászon"
+          },
+          "size": "80x80cm",
+          "description": {
+            "hu": "",
+            "en": ""
+          },
+          "image": "assets/artworks/Újszerű historizálás/munka és jólét - olaj, vászon 80x80cm.png",
+          "thumb": "assets/artworks/thumbs/ujszeru-historizalas/munka-es-jolet-olaj-vaszon-80x80cm.jpg"
+        },
+        {
+          "id": "ujszeru-historizalas-pallas-athene-olaj-faroston3-60x80cm",
+          "title": {
+            "hu": "Pallas Athene",
+            "en": "Pallas Athene"
           },
           "year": "",
           "medium": {
@@ -510,622 +1125,7 @@
             "en": ""
           },
           "image": "assets/artworks/Újszerű historizálás/Pallas Athene 60x80cm, olaj faroston3.jpg",
-          "thumb": "assets/artworks/thumbs/ujszeru-historizalas/pallas-athene-60x80cm-olaj-faroston3.jpg"
-        }
-      ]
-    },
-    {
-      "id": "budapest",
-      "title": {
-        "hu": "Budapest",
-        "en": "Budapest"
-      },
-      "description": {
-        "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-        "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-      },
-      "works": [
-        {
-          "id": "budapest-bazilika-80x60cm-olaj-vasznon1",
-          "title": {
-            "hu": "bazilika 80x60cm olaj vásznon1",
-            "en": "bazilika 80x60cm olaj vásznon1"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "80x60cm",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/bazilika 80x60cm olaj vásznon1.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/bazilika-80x60cm-olaj-vasznon1.jpg"
-        },
-        {
-          "id": "budapest-angyalfold-folott-az-eg-50x90cm-olaj-faroston",
-          "title": {
-            "hu": "Angyalföld fölött az ég 50x90cm",
-            "en": "Angyalföld fölött az ég 50x90cm"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj faroston",
-            "en": "olaj faroston"
-          },
-          "size": "50x90cm",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/Angyalföld fölött az ég 50x90cm, olaj faroston.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/angyalfold-folott-az-eg-50x90cm-olaj-faroston.jpg"
-        },
-        {
-          "id": "budapest-bajza-utca-olaj-farost-50x40cm",
-          "title": {
-            "hu": "Bajza utca",
-            "en": "Bajza utca"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, farost",
-            "en": "olaj, farost"
-          },
-          "size": "50x40cm",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/Bajza utca - olaj, farost, 50x40cm.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/bajza-utca-olaj-farost-50x40cm.jpg"
-        },
-        {
-          "id": "budapest-bajza-utca-2-olaj-farost-50x40cm",
-          "title": {
-            "hu": "Bajza utca 2- olaj",
-            "en": "Bajza utca 2- olaj"
-          },
-          "year": "",
-          "medium": {
-            "hu": "farost",
-            "en": "farost"
-          },
-          "size": "50x40cm",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/Bajza utca 2- olaj, farost, 50x40cm.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/bajza-utca-2-olaj-farost-50x40cm.jpg"
-        },
-        {
-          "id": "budapest-thokoly-ut-olaj-faroston-80x60",
-          "title": {
-            "hu": "Thököly út",
-            "en": "Thököly út"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, faroston, 80x60",
-            "en": "olaj, faroston, 80x60"
-          },
-          "size": "",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/Thököly út - olaj, faroston - 80x60.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/thokoly-ut-olaj-faroston-80x60.jpg"
-        },
-        {
-          "id": "budapest-podmaniczky-utca-olaj-faroston-100x100cm",
-          "title": {
-            "hu": "Podmaniczky utca",
-            "en": "Podmaniczky utca"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj, faroston",
-            "en": "olaj, faroston"
-          },
-          "size": "100x100cm",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/Podmaniczky utca - olaj, faroston 100x100cm.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/podmaniczky-utca-olaj-faroston-100x100cm.jpg"
-        },
-        {
-          "id": "budapest-lanchid-olaj-faroston-30x70",
-          "title": {
-            "hu": "Lánchíd",
-            "en": "Lánchíd"
-          },
-          "year": "",
-          "medium": {
-            "hu": "olaj faroston- 30x70",
-            "en": "olaj faroston- 30x70"
-          },
-          "size": "",
-          "description": {
-            "hu": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás.",
-            "en": "Az elvont témájú munkáim mellett szeretem a megfesteni a környezetemet. Budapesten élek lassan 20 éve, szóval elég kézenfekvő a témaválasztás."
-          },
-          "image": "assets/artworks/Budapest/Lánchíd - olaj faroston- 30x70.jpg",
-          "thumb": "assets/artworks/thumbs/budapest/lanchid-olaj-faroston-30x70.jpg"
-        }
-      ]
-    },
-    {
-      "id": "rajzok-es-egyebek",
-      "title": {
-        "hu": "Rajzok és egyebek",
-        "en": "Rajzok és egyebek"
-      },
-      "description": {
-        "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-        "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-      },
-      "works": [
-        {
-          "id": "rajzok-es-egyebek-majd-ha-nagy-leszel-szen-faroston-30x70cm",
-          "title": {
-            "hu": "Majd ha nagy leszel",
-            "en": "Majd ha nagy leszel"
-          },
-          "year": "",
-          "medium": {
-            "hu": "szén, faroston",
-            "en": "szén, faroston"
-          },
-          "size": "30x70cm",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/Majd ha nagy leszel - szén, faroston 30x70cm.png",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/majd-ha-nagy-leszel-szen-faroston-30x70cm.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-elmulik-szen-faroston-30x70cm",
-          "title": {
-            "hu": "Elmúlik",
-            "en": "Elmúlik"
-          },
-          "year": "",
-          "medium": {
-            "hu": "szén, faroston",
-            "en": "szén, faroston"
-          },
-          "size": "30x70cm",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/Elmúlik - szén, faroston 30x70cm.png",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/elmulik-szen-faroston-30x70cm.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-kikelet-szen-faroston-40x40cm",
-          "title": {
-            "hu": "kikelet",
-            "en": "kikelet"
-          },
-          "year": "",
-          "medium": {
-            "hu": "szén, faroston",
-            "en": "szén, faroston"
-          },
-          "size": "40x40cm",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/kikelet - szén, faroston 40x40cm.png",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/kikelet-szen-faroston-40x40cm.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-egy-rendes-lany-nem-ilyen-pasztell-faroston-50x30",
-          "title": {
-            "hu": "Egy rendes lány nem ilyen",
-            "en": "Egy rendes lány nem ilyen"
-          },
-          "year": "",
-          "medium": {
-            "hu": "pasztell faroston, 50x30",
-            "en": "pasztell faroston, 50x30"
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/Egy rendes lány nem ilyen - pasztell faroston - 50x30.png",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/egy-rendes-lany-nem-ilyen-pasztell-faroston-50x30.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-tanulmany-lofejrol-szen-vasznon-40x40",
-          "title": {
-            "hu": "tanulmány lófejről",
-            "en": "tanulmány lófejről"
-          },
-          "year": "",
-          "medium": {
-            "hu": "szén vásznon, 40x40",
-            "en": "szén vásznon, 40x40"
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/tanulmány lófejről - szén vásznon - 40x40.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/tanulmany-lofejrol-szen-vasznon-40x40.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-nem-alszol-pasztell-faroston-30x50",
-          "title": {
-            "hu": "Nem alszol",
-            "en": "Nem alszol"
-          },
-          "year": "",
-          "medium": {
-            "hu": "pasztell faroston, 30x50",
-            "en": "pasztell faroston, 30x50"
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/Nem alszol - pasztell faroston - 30x50.png",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/nem-alszol-pasztell-faroston-30x50.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-img-20260331-085440",
-          "title": {
-            "hu": "IMG_20260331_085440",
-            "en": "IMG_20260331_085440"
-          },
-          "year": "2026",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/IMG_20260331_085440.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/img-20260331-085440.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-img-20260331-085931",
-          "title": {
-            "hu": "IMG_20260331_085931",
-            "en": "IMG_20260331_085931"
-          },
-          "year": "2026",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/IMG_20260331_085931.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/img-20260331-085931.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-345052114-902382157519522-8119440702937321090-n",
-          "title": {
-            "hu": "345052114_902382157519522_8119440702937321090_n",
-            "en": "345052114_902382157519522_8119440702937321090_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/345052114_902382157519522_8119440702937321090_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/345052114-902382157519522-8119440702937321090-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-346242636-255220183541078-8041111106084781617-n",
-          "title": {
-            "hu": "346242636_255220183541078_8041111106084781617_n",
-            "en": "346242636_255220183541078_8041111106084781617_n"
-          },
-          "year": "2018",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/346242636_255220183541078_8041111106084781617_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/346242636-255220183541078-8041111106084781617-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-346663599-785904969562672-9049063812178885545-n",
-          "title": {
-            "hu": "346663599_785904969562672_9049063812178885545_n",
-            "en": "346663599_785904969562672_9049063812178885545_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/346663599_785904969562672_9049063812178885545_n.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/346663599-785904969562672-9049063812178885545-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-348246542-272148421850580-1132376958299151052-n",
-          "title": {
-            "hu": "348246542_272148421850580_1132376958299151052_n",
-            "en": "348246542_272148421850580_1132376958299151052_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/348246542_272148421850580_1132376958299151052_n.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/348246542-272148421850580-1132376958299151052-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-350864246-768282981699406-123473593047623413-n",
-          "title": {
-            "hu": "350864246_768282981699406_123473593047623413_n",
-            "en": "350864246_768282981699406_123473593047623413_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/350864246_768282981699406_123473593047623413_n.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/350864246-768282981699406-123473593047623413-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-351743637-275274751540536-4014300818743203524-n",
-          "title": {
-            "hu": "351743637_275274751540536_4014300818743203524_n",
-            "en": "351743637_275274751540536_4014300818743203524_n"
-          },
-          "year": "2035",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/351743637_275274751540536_4014300818743203524_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/351743637-275274751540536-4014300818743203524-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-353575056-3107803592859847-2234416904379578627-n",
-          "title": {
-            "hu": "353575056_3107803592859847_2234416904379578627_n",
-            "en": "353575056_3107803592859847_2234416904379578627_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/353575056_3107803592859847_2234416904379578627_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/353575056-3107803592859847-2234416904379578627-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-354796051-213531614932094-9161665790499240295-n",
-          "title": {
-            "hu": "354796051_213531614932094_9161665790499240295_n",
-            "en": "354796051_213531614932094_9161665790499240295_n"
-          },
-          "year": "2094",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/354796051_213531614932094_9161665790499240295_n.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/354796051-213531614932094-9161665790499240295-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-355582130-116179654846603-480939553773351303-n",
-          "title": {
-            "hu": "355582130_116179654846603_480939553773351303_n",
-            "en": "355582130_116179654846603_480939553773351303_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/355582130_116179654846603_480939553773351303_n.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/355582130-116179654846603-480939553773351303-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-356230514-288962513507927-7167032235870405729-n",
-          "title": {
-            "hu": "356230514_288962513507927_7167032235870405729_n",
-            "en": "356230514_288962513507927_7167032235870405729_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/356230514_288962513507927_7167032235870405729_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/356230514-288962513507927-7167032235870405729-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-356801892-588949160031165-1738209079914513571-n",
-          "title": {
-            "hu": "356801892_588949160031165_1738209079914513571_n",
-            "en": "356801892_588949160031165_1738209079914513571_n"
-          },
-          "year": "2090",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/356801892_588949160031165_1738209079914513571_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/356801892-588949160031165-1738209079914513571-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-369144715-667068215468700-8240801625064952303-n",
-          "title": {
-            "hu": "369144715_667068215468700_8240801625064952303_n",
-            "en": "369144715_667068215468700_8240801625064952303_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/369144715_667068215468700_8240801625064952303_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/369144715-667068215468700-8240801625064952303-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-269365502-963483354578197-2501394582919598586-n",
-          "title": {
-            "hu": "269365502_963483354578197_2501394582919598586_n",
-            "en": "269365502_963483354578197_2501394582919598586_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/269365502_963483354578197_2501394582919598586_n.jpg",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/269365502-963483354578197-2501394582919598586-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-272511411-466598984980347-8601036198294289682-n",
-          "title": {
-            "hu": "272511411_466598984980347_8601036198294289682_n",
-            "en": "272511411_466598984980347_8601036198294289682_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/272511411_466598984980347_8601036198294289682_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/272511411-466598984980347-8601036198294289682-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-291010197-162611696321120-6777248751824874829-n",
-          "title": {
-            "hu": "291010197_162611696321120_6777248751824874829_n",
-            "en": "291010197_162611696321120_6777248751824874829_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/291010197_162611696321120_6777248751824874829_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/291010197-162611696321120-6777248751824874829-n.jpg"
-        },
-        {
-          "id": "rajzok-es-egyebek-311902995-923873848580197-1183759656448819750-n",
-          "title": {
-            "hu": "311902995_923873848580197_1183759656448819750_n",
-            "en": "311902995_923873848580197_1183759656448819750_n"
-          },
-          "year": "",
-          "medium": {
-            "hu": "",
-            "en": ""
-          },
-          "size": "",
-          "description": {
-            "hu": "grafit, szén, pasztell, digitális rajzok vegyesen",
-            "en": "grafit, szén, pasztell, digitális rajzok vegyesen"
-          },
-          "image": "assets/artworks/Rajzok és egyebek/311902995_923873848580197_1183759656448819750_n.webp",
-          "thumb": "assets/artworks/thumbs/rajzok-es-egyebek/311902995-923873848580197-1183759656448819750-n.jpg"
+          "thumb": "assets/artworks/thumbs/ujszeru-historizalas/pallas-athene-olaj-faroston3-60x80cm.jpg"
         }
       ]
     }

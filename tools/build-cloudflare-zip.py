@@ -1,6 +1,8 @@
 import json
 import re
 import shutil
+import subprocess
+import sys
 from pathlib import Path
 
 from PIL import Image, ImageOps
@@ -45,7 +47,7 @@ def reset_output():
 
 
 def copy_core_files():
-    for name in ["index.html", "styles.css", "script.js", "content.json", "netlify.toml"]:
+    for name in ["index.html", "styles.css", "script.js", "content.json", "_headers"]:
         source = ROOT / name
         if source.exists():
             shutil.copy2(source, OUT / name)
@@ -108,6 +110,7 @@ def write_content():
 
 
 def main():
+    subprocess.run([sys.executable, str(ROOT / "tools" / "generate-artworks.py")], check=True)
     reset_output()
     copy_core_files()
     write_content()
