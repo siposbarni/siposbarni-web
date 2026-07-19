@@ -50,7 +50,7 @@ A `tools/sync-drive-to-github.ps1` script:
 - commitolja az uj kepeket es adatokat
 - feltolja GitHubra
 
-Ha Windows utemezoben fut, telefonos Drive-feltoltes utan nehany percen belul automatikusan indul a Cloudflare deploy.
+Ha Windows utemezoben fut, telefonos Drive-feltoltes utan automatikusan indul a Cloudflare deploy. A rejtett futtatashoz a `tools/run-drive-sync-hidden.vbs` hasznalhato, igy nem ugrik fel PowerShell ablak.
 
 ## Kezi publikalas Cloudflare-re
 
