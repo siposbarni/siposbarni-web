@@ -41,6 +41,17 @@ Cloudflare Workers beallitas:
 
 Ezutan a Drive-bol szinkronizalt fajlok GitHubra kerulese utan a Cloudflare automatikusan publikalja a `siposbarnicom` Worker static assets oldalt.
 
+## Automata Drive -> GitHub szinkron ezen a gepen
+
+A `tools/sync-drive-to-github.ps1` script:
+
+- behuzza a legfrissebb GitHub valtozasokat
+- ujrageneralja a galeriat a Drive-ban szinkronizalt `assets/artworks` mappabol
+- commitolja az uj kepeket es adatokat
+- feltolja GitHubra
+
+Ha Windows utemezoben fut, telefonos Drive-feltoltes utan nehany percen belul automatikusan indul a Cloudflare deploy.
+
 ## Kezi publikalas Cloudflare-re
 
 Modositas utan futtasd:
