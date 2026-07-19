@@ -36,7 +36,7 @@ Cloudflare Workers beallitas:
 
 - Git repository: `siposbarni/siposbarni-web`
 - Production branch: `main`
-- Build command: ures
+- Build command: `python3 -m pip install pillow && python3 tools/build-cloudflare-zip.py`
 - Deploy command: `npx wrangler deploy`
 
 Ezutan a Drive-bol szinkronizalt fajlok GitHubra kerulese utan a Cloudflare automatikusan publikalja a `siposbarnicom` Worker static assets oldalt.
