@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Sipos Barni portfolio">
+    <title>sipos barni</title>
+    <link rel="stylesheet" href="styles.css?v=20260718-11">
+  </head>
+  <body>
+    <header class="site-header" aria-label="primary">
+      <a class="mark" href="#home">sipos barni</a>
+      <nav class="nav" aria-label="sections">
+        <a href="#home" data-i18n="nav.home">home</a>
+        <a href="#gallery" data-i18n="nav.gallery">galeria</a>
+        <a href="#about" data-i18n="nav.about">rolam</a>
+        <a href="#contact" data-i18n="nav.contact">kapcsolat</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero section" id="home">
+        <div>
+          <h1 aria-label="sipos barni">
+            <span>sipos</span>
+            <span>barni</span>
+          </h1>
+        </div>
+      </section>
+
+      <section class="section gallery-section" id="gallery">
+        <div class="section-heading">
+          <h2 data-i18n="gallery.title">galeria</h2>
+          <p data-i18n="gallery.intro">Valogatott munkak. A kepekre kattintva megnyilik a lapozhato nezegeto.</p>
+        </div>
+        <div id="gallery-list" class="gallery-list" aria-live="polite"></div>
+      </section>
+
+      <section class="section about-section" id="about">
+        <div class="section-heading">
+          <h2 data-i18n="about.title">rolam</h2>
+        </div>
+        <div class="about-grid">
+          <div class="about-media" id="about-media">
+            <span data-i18n="about.videoPlaceholder">video hamarosan</span>
+          </div>
+          <p class="about-copy" data-i18n="about.body">Sipos Barni vagyok, festeszettel es kepi helyzetekkel foglalkozom.</p>
+        </div>
+      </section>
+
+      <section class="section contact-section" id="contact">
+        <div class="section-heading">
+          <h2 data-i18n="contact.title">kapcsolat</h2>
+          <p data-i18n="contact.intro">Irj uzenetet, vagy keress Instagramon, TikTokon, emailben.</p>
+        </div>
+        <div class="contact-grid">
+          <ul class="contact-links">
+            <li><a id="instagram-link" href="https://www.instagram.com/sipos.barni/">instagram</a></li>
+            <li><a id="tiktok-link" href="https://www.tiktok.com/">tiktok</a></li>
+          </ul>
+          <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <input type="hidden" name="form-name" value="contact">
+            <p class="hidden">
+              <label>Do not fill this out <input name="bot-field"></label>
+            </p>
+            <label>
+              <span data-i18n="contact.name">nev</span>
+              <input name="name" autocomplete="name" required>
+            </label>
+            <label>
+              <span data-i18n="contact.email">email</span>
+              <input name="email" type="email" autocomplete="email" required>
+            </label>
+            <label>
+              <span data-i18n="contact.message">uzenet</span>
+              <textarea name="message" id="message-field" rows="6" required></textarea>
+            </label>
+            <button type="submit" data-i18n="contact.send">kuldes</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Artwork viewer">
+      <div class="lightbox-top">
+        <button type="button" id="lightbox-prev" data-i18n-aria="lightbox.previous">prev</button>
+        <button type="button" id="lightbox-close" data-i18n="lightbox.close">bezar</button>
+        <button type="button" id="lightbox-next" data-i18n-aria="lightbox.next">next</button>
+      </div>
+      <div class="lightbox-body">
+        <img id="lightbox-image" alt="">
+        <aside class="lightbox-info">
+          <p id="lightbox-count"></p>
+          <h3 id="lightbox-title"></h3>
+          <dl id="lightbox-meta"></dl>
+          <p id="lightbox-description"></p>
+          <button type="button" id="interest-button" data-i18n="gallery.interest">Erdeklodom a kep irant</button>
+        </aside>
+      </div>
+    </div>
+
+    <script src="script.js?v=20260718-11"></script>
+  </body>
+</html>

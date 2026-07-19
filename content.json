@@ -1,0 +1,114 @@
+{
+  "defaultLanguage": "hu",
+  "languages": [
+    "hu",
+    "en"
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/sipos.barni/",
+    "tiktok": "https://www.tiktok.com/",
+    "email": "hello@siposbarni.com",
+    "video": ""
+  },
+  "nav": {
+    "home": {
+      "hu": "home",
+      "en": "home"
+    },
+    "gallery": {
+      "hu": "galeria",
+      "en": "gallery"
+    },
+    "about": {
+      "hu": "rolam",
+      "en": "about"
+    },
+    "contact": {
+      "hu": "kapcsolat",
+      "en": "contact"
+    }
+  },
+  "home": {
+    "title": {
+      "hu": "sipos barni",
+      "en": "sipos barni"
+    }
+  },
+  "gallery": {
+    "title": {
+      "hu": "galeria",
+      "en": "gallery"
+    },
+    "intro": {
+      "hu": "Valogatott munkak. A kepekre kattintva megnyilik a lapozhato nezegeto.",
+      "en": "Selected works. Click an image to open the browsable viewer."
+    },
+    "interest": {
+      "hu": "Erdeklodom a kep irant",
+      "en": "I am interested in this work"
+    }
+  },
+  "about": {
+    "title": {
+      "hu": "rolam",
+      "en": "about"
+    },
+    "body": {
+      "hu": "Sipos Barnabás vagyok, Budapesten élő és alkotó képzőművész. A vizuális kultúra lelkes fogyasztója vagyok gyerekkorom óta. Faltam az animációs filmeket, képregényeket és lenyűgöztek az illusztrátorok-, festők- és grafikusok munkái. Ezek nagyon korán megihlettek, és sürgető vágyat ébresztettek bennem, hogy én is elkezdjek festeni és rajzolni. Formális képzésben nem vettem részt, autodidakta módon szereztem a készségeket, amivel ma dolgozom.\n\nAz érdeklődő természetemből fakadóan sok médiumot kipróbáltam már. Az egyszerű grafitrajzoktól kezdve, a digitális festészeten át, az animációig. De az olajfesték, akril és a szén, amivel a legtöbbet dolgozom.\n\na képeimben a kontrasztokat keresem. a szakrálist és a profánt. a Munkáim nem konkrét történeteket mesélnek el, sokkal inkább érzeteket, feszültségeket és viszonyrendszereket jelenítenek meg – gyakran a test, a tér és az idő metszéspontjain keresztül. A célom nem a múlt idézése, hanem éppen a jelen felmagasztalása – annak a kérdésnek a megfogalmazása, hogy van-e mélysége, jelentése, iránya a kortárs emberi tapasztalatnak.",
+      "en": "Sipos Barnabás vagyok, Budapesten élő és alkotó képzőművész. A vizuális kultúra lelkes fogyasztója vagyok gyerekkorom óta. Faltam az animációs filmeket, képregényeket és lenyűgöztek az illusztrátorok-, festők- és grafikusok munkái. Ezek nagyon korán megihlettek, és sürgető vágyat ébresztettek bennem, hogy én is elkezdjek festeni és rajzolni. Formális képzésben nem vettem részt, autodidakta módon szereztem a készségeket, amivel ma dolgozom.\n\nAz érdeklődő természetemből fakadóan sok médiumot kipróbáltam már. Az egyszerű grafitrajzoktól kezdve, a digitális festészeten át, az animációig. De az olajfesték, akril és a szén, amivel a legtöbbet dolgozom.\n\na képeimben a kontrasztokat keresem. a szakrálist és a profánt. a Munkáim nem konkrét történeteket mesélnek el, sokkal inkább érzeteket, feszültségeket és viszonyrendszereket jelenítenek meg – gyakran a test, a tér és az idő metszéspontjain keresztül. A célom nem a múlt idézése, hanem éppen a jelen felmagasztalása – annak a kérdésnek a megfogalmazása, hogy van-e mélysége, jelentése, iránya a kortárs emberi tapasztalatnak."
+    },
+    "videoPlaceholder": {
+      "hu": "video hamarosan",
+      "en": "video coming soon"
+    },
+    "image": "assets/about/about.png",
+    "imageAlt": {
+      "hu": "Sipos Barnab?s",
+      "en": "Sipos Barnab?s"
+    }
+  },
+  "contact": {
+    "title": {
+      "hu": "kapcsolat",
+      "en": "contact"
+    },
+    "intro": {
+      "hu": "Irj uzenetet, vagy keress Instagramon, TikTokon, emailben.",
+      "en": "Send a message, or reach me on Instagram, TikTok, or email."
+    },
+    "name": {
+      "hu": "nev",
+      "en": "name"
+    },
+    "email": {
+      "hu": "email",
+      "en": "email"
+    },
+    "message": {
+      "hu": "uzenet",
+      "en": "message"
+    },
+    "send": {
+      "hu": "kuldes",
+      "en": "send"
+    },
+    "prefill": {
+      "hu": "Erdeklodom ez irant a kep irant:",
+      "en": "I am interested in this work:"
+    }
+  },
+  "lightbox": {
+    "close": {
+      "hu": "bezar",
+      "en": "close"
+    },
+    "previous": {
+      "hu": "elozo",
+      "en": "previous"
+    },
+    "next": {
+      "hu": "kovetkezo",
+      "en": "next"
+    }
+  }
+}
