@@ -1,0 +1,20 @@
+Godot Art Expo 2026 - JPG feltoltesi csomag
+Formatum: JPG, 72 dpi, RGB, quality 94
+
+01. A pók - olaj,, farost - 100x100cm.jpg (3061x3061px) - forras: A pók - olaj,, farost - 100x100cm.png
+02. Bitte - olaj, faroston 100x100cm.jpg (1920x1920px) - forras: Bitte - olaj, faroston 100x100cm.png
+03. Csokor - olaj, faroston 100x100cm.jpg (1920x1920px) - forras: Csokor - olaj, faroston 100x100cm.png
+04. Ha sokat gyakorolsz - olaj vászon, 80x80cm.jpg (3950x3962px) - forras: Ha sokat gyakorolsz - olaj vászon, 80x80cm.png
+05. Hárem - olaj, faroston 80x80cm.jpg (3801x3751px) - forras: Hárem - olaj, faroston 80x80cm.png
+06. Három barátnő - olaj, farost, 100x100cm.jpg (5929x6005px) - forras: Három barátnő - olaj, farost, 100x100cm.jpg
+07. Kinövöd - olaj, vászon 80x80cm.jpg (3950x3962px) - forras: Kinövöd - olaj, vászon  80x80cm.png
+08. Négy barátnő - olaj, farost, 100x100cm.jpg (5857x5878px) - forras: Négy barátnő - olaj, farost, 100x100cm.jpg
+09. Spontán megbékélés - olaj, farost 100x100cm.jpg (1920x1920px) - forras: Spontán megbékélés - olaj, farost 100x100cm.png
+10. welcome - olaj, faroston, 100x100cm.jpg (1920x1920px) - forras: welcome - olaj, faroston, 100x100cm.png
+11. Zsül - olaj, faroston 100x100cm.jpg (1920x1920px) - forras: Zsül - olaj, faroston 100x100cm.png
+12. káros szenvedélyek 1 - olaj, farost 40x50cm.jpg (3940x3061px) - forras: káros szenvedélyek 1 - olaj, farost 40x50cm.png
+13. káros szenvedélyek 2 - olaj, farost 40x50cm.jpg (3939x3061px) - forras: káros szenvedélyek 2 - olaj, farost 40x50cm.png
+14. Torzó 3- olaj, alapozott papír 50x50cm.jpg (2000x2000px) - forras: Torzó 3- olaj, alapozott papír 50x50cm.webp
+15. Torzó 4- olaj, alapozott papír 50x50cm.jpg (2000x2000px) - forras: Torzó 4- olaj, alapozott papír 50x50cm.webp
+16. Torzó 5- olaj, alapozott papír 50x50cm.jpg (2177x2177px) - forras: Torzó 5- olaj, alapozott papír 50x50cm.jpg
+17. vanegycigid - olaj, farost, 50x40cm.jpg (6119x7511px) - forras: vanegycigid - olaj, farost, 50x40cm.jpg
